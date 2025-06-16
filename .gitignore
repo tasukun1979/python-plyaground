@@ -175,3 +175,5 @@ cython_debug/
 
 # PowerPoint files
 *.pptx
+
+tools/tiktoken/sample.txt
